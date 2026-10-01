@@ -3,7 +3,7 @@
 <!--       NEHA REDDY | CYBER DESK + GLASS             -->
 <!-- ================================================= -->
 
-<div align="center">
+<div align="center"> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:080d1c,45:172554,75:4c1d95,100:0891b2&text=NEHA%20REDDY&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Creative%20Thinker&descSize=15&descAlignY=62&animation=fadeIn" />
 
